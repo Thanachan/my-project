@@ -33,11 +33,12 @@ class Product {
 
   const Product({
     required this.id,
-    this.rating = 0.0,
+    this.rating = 0.0,,
     required this.price,
     required this.title,
     required this.images,
     required this.description,
+    //เพิ่ม
     required this.colors,
     this.isFavourite = false,
     this.isPopular = false,
