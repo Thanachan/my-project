@@ -39,6 +39,7 @@ class Product {
     required this.images,
     required this.description,
     //เพิ่ม
+    //pull
     required this.colors,
     this.isFavourite = false,
     this.isPopular = false,
