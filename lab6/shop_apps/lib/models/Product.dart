@@ -40,6 +40,7 @@ class Product {
     required this.description,
     //เพิ่ม
     //pull
+    //pullอีก
     required this.colors,
     this.isFavourite = false,
     this.isPopular = false,
