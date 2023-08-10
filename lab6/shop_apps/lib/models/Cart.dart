@@ -11,11 +11,7 @@ class Cart {
 
 // Demo data for our cart
 
-//มิ้น
-
-//กรีน
-
-//TadanoYume
+//Hello World 
 
 List<Cart> demoCarts = [
   //Cart(product: demoProducts[0], numOfItem: 2),
